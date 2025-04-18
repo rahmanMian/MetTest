@@ -1,0 +1,23 @@
+{
+  "name": "met-test",
+  "version": "1.0.0",
+  "main": "met-test.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmanMian/MetTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rahmanMian/MetTest/issues"
+  },
+  "homepage": "https://github.com/rahmanMian/MetTest#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.14.1"
+  }
+}
